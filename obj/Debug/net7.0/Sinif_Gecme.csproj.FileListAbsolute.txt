@@ -1,0 +1,15 @@
+/Users/nurikan/Projects/Sinif_Gecme/bin/Debug/net7.0/Sinif_Gecme
+/Users/nurikan/Projects/Sinif_Gecme/bin/Debug/net7.0/Sinif_Gecme.deps.json
+/Users/nurikan/Projects/Sinif_Gecme/bin/Debug/net7.0/Sinif_Gecme.runtimeconfig.json
+/Users/nurikan/Projects/Sinif_Gecme/bin/Debug/net7.0/Sinif_Gecme.dll
+/Users/nurikan/Projects/Sinif_Gecme/bin/Debug/net7.0/Sinif_Gecme.pdb
+/Users/nurikan/Projects/Sinif_Gecme/obj/Debug/net7.0/Sinif_Gecme.csproj.AssemblyReference.cache
+/Users/nurikan/Projects/Sinif_Gecme/obj/Debug/net7.0/Sinif_Gecme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurikan/Projects/Sinif_Gecme/obj/Debug/net7.0/Sinif_Gecme.AssemblyInfoInputs.cache
+/Users/nurikan/Projects/Sinif_Gecme/obj/Debug/net7.0/Sinif_Gecme.AssemblyInfo.cs
+/Users/nurikan/Projects/Sinif_Gecme/obj/Debug/net7.0/Sinif_Gecme.csproj.CoreCompileInputs.cache
+/Users/nurikan/Projects/Sinif_Gecme/obj/Debug/net7.0/Sinif_Gecme.dll
+/Users/nurikan/Projects/Sinif_Gecme/obj/Debug/net7.0/refint/Sinif_Gecme.dll
+/Users/nurikan/Projects/Sinif_Gecme/obj/Debug/net7.0/Sinif_Gecme.pdb
+/Users/nurikan/Projects/Sinif_Gecme/obj/Debug/net7.0/Sinif_Gecme.genruntimeconfig.cache
+/Users/nurikan/Projects/Sinif_Gecme/obj/Debug/net7.0/ref/Sinif_Gecme.dll
